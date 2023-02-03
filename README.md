@@ -1,0 +1,2 @@
+# Cequurity
+The Cequurety bot
