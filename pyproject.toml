@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cequurity"
+version = "0.1.0"
+description = ""
+authors = ["Blue-Gamer48 <97996264+Blue-Gamer48@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+discord-py-message-components = {git = "https://github.com/mccoderpy/discord.py-message-components.git", rev = "developer"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
